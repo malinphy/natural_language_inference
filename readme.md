@@ -1,3 +1,6 @@
+# NATURAL LANGUAGE INFERENCE DETECTION WITH UNIVERSAL SENTENCE ENCODER
+
+
 
 dataset url:
 https://www.kaggle.com/datasets/stanfordu/stanford-natural-language-inference-corpus
