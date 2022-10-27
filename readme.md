@@ -23,16 +23,16 @@ if necessary download repo and create an virtual env using following commands
 ----
 download file 
 ```
-conda create --name caser_env
-conda activate revenue_model
+conda create --name exp_env
+conda activate exp_env
 ```
-find the folder directory in caser_env
+find the folder directory in exp_env
 ```
 pip install -r requirements.txt 
 ```
 run ***train.py*** file 
 <br/>
-for deployment purpose prediction file created seperately as ***caser_prediction.py***
+for deployment purpose prediction file created seperately as **prediction.py**
 
 
 dataset url:
