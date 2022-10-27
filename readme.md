@@ -38,7 +38,8 @@ for deployment purpose prediction file created seperately as **prediction.py**
 dataset url:
 https://www.kaggle.com/datasets/stanfordu/stanford-natural-language-inference-corpus
 
-
+Evaluation:
+----
 ```
 F1 SCORE : 0.7910290031945397
 
